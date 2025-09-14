@@ -16,7 +16,7 @@ The dataset used for this project was provided as part of the DSN AI Bootcamp 20
 
 - **Brand & Model**: The manufacturer and specific model of the car.
 - **Model Year**: The year the car was manufactured.
-- **Mileage**: The total distance the car has traveled.
+- **Milage**: The total distance the car has traveled.
 - **Fuel Type**: The type of fuel the car uses (e.g., gasoline, diesel, electric).
 - **Engine Type**: Engine specifications.
 - **Transmission**: The type of transmission (e.g., automatic, manual).
