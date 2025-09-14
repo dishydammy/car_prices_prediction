@@ -1,6 +1,4 @@
-# car_prices_prediction
-
-## Car Prices Prediction 🚗📊
+# Car Prices Prediction 🚗📊
 This repository contains the code and resources for a data science project on car price prediction. This project was developed as a hackathon submission for qualification for the Data Science Nigeria (DSN) AI Bootcamp 2025.
 
 The goal of this project is to build a machine learning model that accurately predicts the prices of cars based on various features.
@@ -10,8 +8,7 @@ The goal of this project is to build a machine learning model that accurately pr
 The project is organized into the following directories and files:
 
 - `requirements.txt`: A list of all necessary Python libraries and their versions.
-- `EDA Notebooks/`: Contains notebooks for Exploratory Data Analysis (EDA), where I explored the dataset, visualized key relationships, and handled data cleaning and preprocessing.
-- `Training Notebook/`: Contains the main notebook where the machine learning models were trained, evaluated, and the final model was selected.
+- `car_prices_prediction_notebook/`: The notebooks for Exploratory Data Analysis (EDA), where I explored the dataset, visualized key relationships, and handled data cleaning and preprocessing and where the machine learning models were trained, evaluated, and the final model was selected.
 
 
 ## 🔍 Data
